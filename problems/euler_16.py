@@ -1,5 +1,5 @@
-from rhbuck_tools.binary_tools.binary_multiplication import binary_multiplication
-from rhbuck_tools.binary_tools.tuple_to_base_10 import tuple_to_base_10
+from tools.binary_tools.binary_multiplication import binary_multiplication
+from tools.binary_tools.tuple_to_base_10 import tuple_to_base_10
 from datetime import datetime
 
 

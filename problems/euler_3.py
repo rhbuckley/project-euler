@@ -1,4 +1,4 @@
-from rhbuck_tools.number_tools.generate_factors import generate_prime_factors_of
+from tools.number_tools.generate_factors import generate_prime_factors_of
 
 
 def largest_primes(max_num: int):

@@ -1,5 +1,5 @@
 from math import sqrt, prod
-from rhbuck_tools.number_tools.perfect_squares import perfect_squares
+from tools.number_tools.perfect_squares import perfect_squares
 
 
 def pythagorean_triplet(equals):

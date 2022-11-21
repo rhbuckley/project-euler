@@ -1,4 +1,4 @@
-from rhbuck_tools.string_manipulation.is_palindrome import is_palindrome
+from tools.string_manipulation.is_palindrome import is_palindrome
 
 
 def find_palindrome(num_of_digits):

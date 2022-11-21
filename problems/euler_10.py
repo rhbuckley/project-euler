@@ -1,4 +1,4 @@
-from rhbuck_tools.number_tools.generate_primes import generate_primes_until
+from tools.number_tools.generate_primes import generate_primes_until
 
 
 def summation_of_primes(below: int) -> int:

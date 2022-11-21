@@ -1,5 +1,5 @@
-from rhbuck_tools.number_tools.generate_primes import generate_primes_until
-from rhbuck_tools.number_tools.generate_factors import generate_factors_of
+from tools.number_tools.generate_primes import generate_primes_until
+from tools.number_tools.generate_factors import generate_factors_of
 
 
 def smallest_num_divisible_bf(_from: int, _to: int):

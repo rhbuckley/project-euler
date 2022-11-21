@@ -1,4 +1,4 @@
-from rhbuck_tools.number_tools.is_prime import is_prime
+from tools.number_tools.is_prime import is_prime
 
 
 def nth_prime(n: int) -> int:

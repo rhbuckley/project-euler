@@ -1,4 +1,4 @@
-from rhbuck_tools.number_tools.generate_factors import generate_factors_of
+from tools.number_tools.generate_factors import generate_factors_of
 
 
 def triangle_numbers() -> [list, list]:
